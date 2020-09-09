@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xox",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "endrem:eye_pearl"
+    },
+    "o":
+    {
+      "item": "minecraft:netherite_block"
+    }
+  },
+
+  "result":
+  {
+    "item": "endrem:end_creator",
+    "count": 1
+  }
+}

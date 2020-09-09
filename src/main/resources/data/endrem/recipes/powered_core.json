@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endrem:old_pearl"
+    },
+    {
+      "item": "endrem:rogue_pearl"
+    },
+    {
+      "item": "endrem:nether_pearl"
+    },
+    {
+      "item": "endrem:cold_pearl"
+    },
+    {
+      "item": "endrem:magical_pearl"
+    },
+    {
+      "item": "endrem:black_pearl"
+    },
+    {
+      "item": "endrem:lost_pearl"
+    },
+    {
+      "item": "endrem:corrupted_pearl"
+    },
+    {
+      "item": "endrem:core"
+    }
+  ],
+  "result":
+  {
+    "item": "endrem:powered_core",
+    "count": 1
+  }
+}
